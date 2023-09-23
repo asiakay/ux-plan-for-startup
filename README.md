@@ -4,7 +4,7 @@
 # Project Goals and Objectives
 
 ## Problem Statement
-Our product/service aims to address the problem of [specific problem or pain point in your target audience's life]. Many [target audience] struggle with [problem], and our goal is to provide a solution that simplifies their lives and enhances their [related experience, e.g., productivity, convenience, enjoyment].
+Our product/service aims to address the problem of barriers to good nutrition for cancer survivors. Many cancer survivors struggle with nutrition, and our goal is to provide a solution that simplifies their lives and enhances their chances of survival and quality of life.
 
 
 
