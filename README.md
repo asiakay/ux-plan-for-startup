@@ -11,7 +11,7 @@ Our product/service aims to address the problem of barriers to good nutrition fo
 ## Project Goals
 1. **User Satisfaction**: Create a user-centric design that ensures a high level of user satisfaction and delight.
 
-2. **Problem Solving**: Effectively solve the problem of [specific problem] for our target audience.
+2. **Problem Solving**: Effectively solve the problem of barriers to good nutrition for cancer survivors for our target audience.
 
 3. **User Engagement**: Increase user engagement by creating an intuitive and engaging user interface.
 
